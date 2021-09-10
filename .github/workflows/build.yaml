@@ -23,4 +23,4 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Push images
-        run: docker push $IMAGE_NAME
+        run: docker push wejrioawejfaewiojf
